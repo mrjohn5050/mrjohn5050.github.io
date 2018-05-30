@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bose-system.com" resolutions="1x" timestamp="1527617700100">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="samsungwin.com" resolutions="1x" timestamp="1527702441393">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="439726075" ref="index"/>
+    <file name="index.css" crc="4267262944" ref="index"/>
+    <file name="nomq_index.css" crc="4236437993" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,23 +11,31 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="bose.jpg" crc="126816983" ref="index">
+    <file name="u129-4.png" crc="4092626619" ref="index"/>
+    <file name="s9 -b.jpg" crc="103377720" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satisfaction-guarantee-2109235_960_720.png" crc="3979841210" ref="index">
+    <file name="buy-now_banner_galaxy-s9.jpg" crc="4012096252" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rating 50.png" crc="128567345" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u137-4.png" crc="472263015" ref="index"/>
-    <file name="u197-4.png" crc="188462544" ref="index"/>
-    <file name="social.png" crc="468709477" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="u374-4.png" crc="460443922" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u476.png" crc="228661694" ref="index"/>
+    <file name="u476-r.png" crc="208200733" ref="index"/>
+    <file name="u129-42.png" crc="417686509" ref="index"/>
+    <file name="u374-42.png" crc="367315448" ref="index"/>
+    <file name="u4762.png" crc="4039954768" ref="index"/>
+    <file name="u476-r2.png" crc="4048639249" ref="index"/>
+    <file name="u129-43.png" crc="211426304" ref="index"/>
+    <file name="u374-43.png" crc="12877366" ref="index"/>
+    <file name="u4763.png" crc="4276962569" ref="index"/>
+    <file name="u476-r3.png" crc="524223718" ref="index"/>
   </folder>
-  <file name="index.html" crc="3979270702" seo="true" mt="1527617671042" redirect="true"/>
+  <file name="index.html" crc="266909666" seo="true" mt="1527702342543" redirect="true"/>
 </manifest>
